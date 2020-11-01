@@ -29,4 +29,4 @@ wind_speed = weather['wind']['speed']
 
 
 
-p "In #{city}, it is a high of #{temperature_max} and a low of #{temperature_min}"
+p "In #{city}, it is a high of #{temperature_max} and a low of #{temperature_min}. It is #{description} with a wind speed of #{wind_speed}" 
